@@ -1,3 +1,5 @@
+//1. Даны два действительных числа х и у. Вычислить их сумму, разность, произведение и частное.
+
 public class Task01a {
     public static void main(String[] args) {
         double x = 1.01;
