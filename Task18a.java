@@ -1,3 +1,5 @@
+//Дана длина ребра куба. Найти площадь грани, площадь полной поверхности и объем этого куба.
+
 public class Task18a {
     public static void main(String[] args) {
         int a = 10;
