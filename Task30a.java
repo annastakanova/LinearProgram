@@ -1,3 +1,5 @@
+//Три сопротивления R1 R2, и R3 соединены параллельно. Найдите сопротивление соединения.
+
 public class Task30a {
     public static void main(String[] args) {
         int r1 = 9;
