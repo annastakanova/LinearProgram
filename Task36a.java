@@ -1,6 +1,8 @@
+//Найти частное произведений четных и нечетных цифр четырехзначного числа.
+
 public class Task36a {
     public static void main(String[] args) {
-        int n = 1234;
+        int n = 5678;
         int a = n/1000;
         int b = (int)(n/100 - 10*a);
         int c = (int)(n /10 - 10*b - 100*a);
@@ -9,7 +11,7 @@ public class Task36a {
         double temp2 = a*c;
         double m = temp1/temp2;
 
-        System.out.println("в виде дроби = " + b +"*" +d+ "/" +a+ "*" +c);
+        System.out.println("в виде дроби = (" + b +"*" +d+ ")/(" +a+ "*" +c+ ")");
         System.out.println("в виде числа = " + m);
     }
 }
