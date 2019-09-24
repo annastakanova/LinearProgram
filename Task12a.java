@@ -1,3 +1,5 @@
+//Вычислить расстояние между двумя точками с данными координатами (х1, у1)и (x2, у2).
+
 public class Task12a {
     public static void main(String[] args) {
         int x1 = 9;
