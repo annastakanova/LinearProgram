@@ -1,3 +1,5 @@
+//Ввести любой символ и определить его порядковый номер, а также указать предыдущий и последующий символы.
+
 public class Task33a {
     public static void main(String[] args) {
         char a = 'W';
