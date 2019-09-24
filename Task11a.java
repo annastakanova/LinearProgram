@@ -1,3 +1,5 @@
+//Вычислить периметр и площадь прямоугольного треугольника по длинам а и b двух катетов.
+
 import static java.lang.Math.sqrt;
 import static java.lang.Math.pow;
 
