@@ -1,3 +1,5 @@
+//Дан прямоугольник, ширина которого в два раза меньше длины. Найти площадь прямоугольника
+
 public class Task07a {
     public static void main(String[] args) {
         int x = 3;
