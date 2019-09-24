@@ -1,3 +1,5 @@
+//Составить программу перевода радианной меры угла в градусы, минуты и секунды.
+
 public class Task28a {
     public static void main(String[] args) {
         int radian = 2;
