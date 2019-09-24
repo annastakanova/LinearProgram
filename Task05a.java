@@ -1,3 +1,5 @@
+//Составить алгоритм нахождения среднего арифметического двух чисел
+
 public class Task05a {
     public static void main(String[] args) {
         double a = 9.0, b = 4.0;
