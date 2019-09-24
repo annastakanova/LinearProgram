@@ -1,3 +1,5 @@
+//Известна длина окружности. Найти площадь круга, ограниченного этой окружностью.
+
 public class Task20a {
     public static void main(String[] args) {
         double l = 9.0;
