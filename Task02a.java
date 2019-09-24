@@ -1,3 +1,5 @@
+//2. Найдите значение функции: с = 3 + а.
+
 public class Task02a {
     public static void main(String[] args) {
         int a = 9, b = 4, c = 5;
