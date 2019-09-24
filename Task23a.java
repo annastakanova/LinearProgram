@@ -1,3 +1,5 @@
+//Найти площадь кольца, внутренний радиус которого равен r, а внешний — R (R> r).
+
 public class Task23a {
     public static void main(String[] args) {
         int rSmall = 1;
