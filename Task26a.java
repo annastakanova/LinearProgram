@@ -1,3 +1,5 @@
+//Найти площадь треугольника, две стороны которого равны а и b, а угол между этими сторонами у.
+
 public class Task26a {
     public static void main(String[] args) {
         int a = 5;
