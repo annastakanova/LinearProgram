@@ -1,3 +1,5 @@
+//Найти (в радианах в градусах) все углы треугольника со сторонами а, b, с.
+
 public class Task29a {
     public static void main(String[] args) {
         double a = 8.0;
