@@ -1,3 +1,5 @@
+//Вычислить длину окружности и площадь круга одного и того же заданного радиуса R.
+
 public class Task14a {
     public static void main(String[] args) {
         int radius = 9;
