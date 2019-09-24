@@ -1,3 +1,5 @@
+//Написать программу, которая выводит на экран первые четыре степени числа π.
+
 public class Task15a {
     public static void main(String[] args) {
         double pi1 = Math.PI;
