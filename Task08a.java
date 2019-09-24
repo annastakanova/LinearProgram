@@ -1,5 +1,8 @@
-import static java.lang.Math.sqrt;
-import static java.lang.Math.pow;
+//Вычислить значение выражения по формуле (все переменные принимают действительные значения)
+//(𝑏+ √(𝑏2 +4𝑎𝑐))/2a - (a^3)с - (b^-2)
+
+
+import static java.lang.Math.*;
 
 public class Task08a {
     public static void main(String[] args) {
