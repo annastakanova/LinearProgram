@@ -4,8 +4,6 @@
 // время движения по озеру t1 ч,
 // а против течения реки — t2 ч.
 
-//возможно, неверно поняла условие задачи.
-
 public class  Task31a {
     public static void main(String[] args) {
         int vBoat = 9;
