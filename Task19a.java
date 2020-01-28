@@ -9,7 +9,7 @@ public class Task19a {
 
         double rSmall = Math.sqrt (3)/6*a;
         double rLarge = Math.sqrt (3)/3*a;
-                System.out.println("площадь треугольника = " + s);
+        System.out.println("площадь треугольника = " + s);
         System.out.println("высота треугольника = " + h);
         System.out.println("радиус вписанной окружности = " + rSmall);
         System.out.println("радиус описанной окружности = " + rLarge);
